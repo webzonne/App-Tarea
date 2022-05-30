@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/App-Tarea/static/css/main.317eb0a6.css",
+    "main.js": "/App-Tarea/static/js/main.f85022e2.js",
+    "static/media/freecodecamp-logo.png": "/App-Tarea/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/App-Tarea/index.html",
+    "main.317eb0a6.css.map": "/App-Tarea/static/css/main.317eb0a6.css.map",
+    "main.f85022e2.js.map": "/App-Tarea/static/js/main.f85022e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317eb0a6.css",
+    "static/js/main.f85022e2.js"
+  ]
+}
